@@ -107,6 +107,9 @@
       ],
       "icon": "resources/icon.ico"
     },
+    "toolsets": {
+      "appimage": "latest",
+    },
     "nsis": {
       "oneClick": false,
       "allowToChangeInstallationDirectory": true,
