@@ -108,7 +108,7 @@
       "icon": "resources/icon.ico"
     },
     "toolsets": {
-      "appimage": "latest",
+      "appimage": "1.0.3",
     },
     "nsis": {
       "oneClick": false,
